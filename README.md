@@ -1,2 +1,2 @@
 # bookbot
-Returns analysis of books
+BookBot is my first project!
